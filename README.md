@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Erlan Rosado! 👋
 
-<!--
-**erlanterminador07/erlanterminador07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduando em Redes de Computadores** na *Universidade Pitágoras Unopar Anhanguera*  
+💼 **Foco Profissional:** Analista de Infraestrutura | SysAdmin | Redes & Cloud Computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Competências
+- **Sistemas Operacionais:** Linux (Debian, Ubuntu), Windows Server
+- **Redes & Conectividade:** Protocolos TCP/IP, Roteamento, Switching, Sub-redes, VPN, Firewall
+- **Virtualização & Automação:** VirtualBox, VMware, Scripts Bash / Shell Scripting
+- **Hardware & Suporte:** Diagnóstico de Hardware, Manutenção e Montagem N2/N3
+
+---
+
+### 📚 Projetos Acadêmicos & Práticos
+- 🌐 [Topologia e Configuração de Redes](./) — *Projetos de arquitetura de redes locais, VLANs e roteamento.*
+- ⚙️ [Scripts de Automação em Linux](./) — *Scripts Bash para automação de rotinas de suporte e servidores.*
+
+---
+
+📫 **Contacto:**
+- 💼 [LinkedIn](https://www.linkedin.com) *(adicione o link do seu perfil)*
+- 📧 Email: *(seu e-mail de contacto profissional)*

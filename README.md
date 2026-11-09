@@ -1,24 +1,15 @@
-# Olá, eu sou o Erlan Rosado! 👋
+Olá, eu sou o Erlan Rosado! 👋
 
-🎓 **Graduando em Redes de Computadores** na *Universidade Pitágoras Unopar Anhanguera*  
-💼 **Foco Profissional:** Analista de Infraestrutura | SysAdmin | Redes & Cloud Computing
+🎓 Graduando em Redes de Computadores na Universidade Pitágoras Unopar Anhanguera 📊 Foco: Análise de Dados | Power BI | DAX, em transição a partir de Infraestrutura e Redes
 
----
+💡 Sobre mim
 
-### 🛠️ Tecnologias & Competências
-- **Sistemas Operacionais:** Linux (Debian, Ubuntu), Windows Server
-- **Redes & Conectividade:** Protocolos TCP/IP, Roteamento, Switching, Sub-redes, VPN, Firewall
-- **Virtualização & Automação:** VirtualBox, VMware, Scripts Bash / Shell Scripting
-- **Hardware & Suporte:** Diagnóstico de Hardware, Manutenção e Montagem N2/N3
+Venho da área de infraestrutura e redes e estou dando um novo passo, agora em direção a dados. Tenho formação em Análise e Desenvolvimento de Sistemas (ADS) e Mecatrônica, e atualmente curso Redes de Computadores e Banco de Dados. Neste perfil reúno meus estudos e projetos práticos de análise e visualização de dados.
 
----
+🛠️ Tecnologias & Competências
+BI e visualização: Power BI Desktop (importação de dados, relacionamentos, segmentações, formatação condicional, gráficos e matrizes)
+Análise e DAX: medidas com CALCULATE, FILTER, TREATAS, DIVIDE e FORMAT; comparação de realizado x meta
+Preparação de dados: Power Query e arquivos Excel
+Base técnica (infraestrutura): Linux, Windows Server, TCP/IP, redes e virtualização
 
-### 📚 Projetos Acadêmicos & Práticos
-- 🌐 [Topologia e Configuração de Redes](./) — *Projetos de arquitetura de redes locais, VLANs e roteamento.*
-- ⚙️ [Scripts de Automação em Linux](./) — *Scripts Bash para automação de rotinas de suporte e servidores.*
-
----
-
-📫 **Contacto:**
-- 💼 [LinkedIn](https://www.linkedin.com) *(adicione o link do seu perfil)*
-- 📧 Email: *(seu e-mail de contacto profissional)*
+(Competências de dados em desenvolvimento.)
